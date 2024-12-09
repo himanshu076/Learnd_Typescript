@@ -1,0 +1,6 @@
+1. to create compile a ts file write CMD -
+CMD - tsc fleName.
+
+2. To run typescript in watch mode.
+CMD - tsc -w
+
